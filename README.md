@@ -126,7 +126,7 @@ This helps managers identify exceptional volunteers and understand engagement le
 ### Query 8: Events Without Volunteer Assignments  
 Query 8 shows events that would pop up if no volunteers signed up for them. As we do not have volunteer data now, the code was not able to put anything underneath the columns. 
 
- <img width="733" height="378" alt="Screenshot 2026-03-30 at 2 30 31 PM" src="https://github.com/user-attachments/assets/805feb9c-a906-4b21-a283-8ab12caa35c3" />
+ <img width="1243" height="429" alt="image" src="https://github.com/user-attachments/assets/80d58f8f-4499-4e02-99c7-66501a74e221" />
 
 This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported. It will be very useful to operations, especially when there are more programs and multiple events happening each week. This will ensure that no events are understaffed or run poorly.  
 
