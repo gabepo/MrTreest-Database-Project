@@ -96,7 +96,8 @@ Description)
 ### Query 3: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="890" height="337" alt="Screenshot 2026-03-30 at 2 17 11 PM" src="https://github.com/user-attachments/assets/9cf75fbb-567a-48ac-83d9-86bd48e93e82" />
+
 
 (justification)
 
@@ -107,7 +108,8 @@ Description)
 ### Query 4: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code)<img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/0f8d0794-a000-4649-ac5d-344decd1b830" />
+ 
 
 (justification)
 
@@ -118,7 +120,8 @@ Description)
 ### Query 5: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="889" height="442" alt="Screenshot 2026-03-30 at 2 26 43 PM" src="https://github.com/user-attachments/assets/e3e0a3d3-57a0-461b-b4ad-5cc57415e25b" />
+
 
 (justification)
 
@@ -129,7 +132,8 @@ Description)
 ### Query 6: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/832ef402-930a-4ac9-8096-901f57070ef1" />
+
 
 (justification)
 
@@ -140,7 +144,8 @@ Description)
 ### Query 7: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="989" height="655" alt="Screenshot 2026-03-30 at 2 29 13 PM" src="https://github.com/user-attachments/assets/07504c3a-b0d3-4318-96bd-69781d071266" />
+
 
 (justification)
 
@@ -151,7 +156,8 @@ Description)
 ### Query 8: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="733" height="378" alt="Screenshot 2026-03-30 at 2 30 31 PM" src="https://github.com/user-attachments/assets/805feb9c-a906-4b21-a283-8ab12caa35c3" />
+
 
 (justification)
 
@@ -162,7 +168,8 @@ Description)
 ### Query 9: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="988" height="602" alt="Screenshot 2026-03-30 at 2 31 40 PM" src="https://github.com/user-attachments/assets/386e2128-678e-43c3-b6eb-4c222d3cb38e" />
+
 
 (justification)
 
@@ -173,7 +180,8 @@ Description)
 ### Query 10: ... 
 (description)
 
-(Pic of Code) 
+(Pic of Code) <img width="994" height="500" alt="Screenshot 2026-03-30 at 2 32 47 PM" src="https://github.com/user-attachments/assets/33ea7e1b-dca5-417d-ac23-af99f22e8fe7" />
+
 
 (justification)
 
