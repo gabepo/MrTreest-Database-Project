@@ -12,12 +12,9 @@ Team Members:
 
 ## Scenario Description
 
-The Mr. Treest Tree Planting Non-Profit Organization (MTTPNPO) uses an advanced, data-integrated strategy that connects environmental impact and financial oversight to further its goals of urban reforestation and community involvement. To ensure transparent reporting, this ecosystem starts with donors whose contributions are closely monitored and frequently limited to programs. These initiatives are carried out through individual planting ceremonies at predetermined locations. The organization uses a hierarchical geographic lens to monitor impact, dividing beneficiary groups into subcommunities through recursive relationships. This allows for fine grained tracking from the city to level down to individual neighborhoods. A recursive tree replacement connection guarantees a longitudinal history of canopy health, and each tree is recorded by its species to track scientific data such as growth rates. Underpinning these operations is a robust human resource framework where volunteers all of whom undergo a volunteer background check for public safety compliance are managed via a volunteer assignment entity that records their specific volunteer role and hours worked. By synthesizing these financial, geographic, botanical, and human resource pillars into a single database, MTTPNPO provides a comprehensive, transparent view of how donor funds are transformed into thriving urban forests through community-led action. 
-
+The objective of this project is to design and implement a relational database that models the operations of a tree-planting nonprofit organization, the Mr. Treest Tree Planting Non-Profit Organization (MTTPNPO). The central focus of the model is on programs and planting events, which represent the organization’s efforts to plant trees in underserved communities and improve environmental sustainability. These programs are supported by donor contributions and carried out through volunteer participation at various planting sites. The database is designed to capture the relationships between donors, donations, programs, communities, volunteers, and planted trees. We aim to accurately model these relationships, generate sample data, and populate the entities with this data. This enables us to perform queries on the database that provide meaningful insights into funding, volunteer involvement, and the overall impact of the organization’s activities.
  
 ## Data Model
-
-(Below is a chatGPT'd data model explanation that can be rewritten to sound more human)
 
 The model is structured around how the organization manages its programs, donations, volunteers, and the communities it serves.
 
@@ -38,8 +35,6 @@ Volunteers play a key role in operations. The Volunteer entity represents indivi
 Each volunteer must also have a background check record, which is represented by the VolunteerBackgroundCheck entity. This creates a one-to-one relationship between Volunteer and VolunteerBackgroundCheck, ensuring that each volunteer has exactly one associated background check record.
 
 Lastly, the Site entity represents physical locations where trees are planted. Each site belongs to a single community, but a community can have many sites, reinforcing the one-to-many relationship between BeneficiaryCommunity and Site.
-
-Overall, this model supports tracking financial contributions, program execution, volunteer involvement, and community impact in a structured and relational way.
 
 <img width="856" height="749" alt="image" src="https://github.com/user-attachments/assets/adb2615b-b50f-402f-9091-c5b9a167c91c" />
 
