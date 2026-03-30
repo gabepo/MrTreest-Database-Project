@@ -74,11 +74,11 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ### Query 1: Total donations by program 
 
-Query 1 shows how much each organization has donated to our nonprofit. It is not in any specific order (ex. largest to smallest) but has the companys name and amount that they have donated
+Query 1 shows how much total funding each program has recieved. It is not in any specific order (ex. largest to smallest) but has the program name and total amount donated. 
 
 <img width="959" height="349" alt="Screenshot 2026-03-30 at 2 12 37 PM" src="https://github.com/user-attachments/assets/7012d7c7-5bd2-480c-acd7-a1ae22165abb" />
 
-This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals, making it possible to set a goal for a company and if they hit it they can have a section of replanted trees names after them. 
+This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals. 
 
 ### Query 2: Total Volunteer Hours by Individual  
 Query 2 shows how many hours an individual has dedicated to the movement. It has their first and last names, and then how many hours they have served. 
