@@ -70,6 +70,17 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ## Queries
 
+Feature	Q1	Q2	Q3	Q4	Q5	Q6	Q7	Q8	Q9	Q10
+Multiple Table Join	X	X	X	X	X	X	X		X	X
+Subquery							X	X		X
+GROUP BY	X	X			X	X	X		X	X
+GROUP BY with HAVING					X		X		X	X
+Multi-condition WHERE								X		
+Built-in Functions	X	X			X	X	X		X	X
+REGEXP										
+NOT EXISTS								X		<img width="716" height="145" alt="image" src="https://github.com/user-attachments/assets/bc1f74d2-ff78-42f5-9e82-b06b1c43d925" />
+
+
 ### Query 1: Total donations by program 
 
 Query 1 shows how much each organization has donated to our nonprofit. It is not in any specific order (ex. largest to smallest) but has the companys name and amount that they have donated
