@@ -138,11 +138,11 @@ Query 9 identifies which planting events were the most efficient in terms of tre
 This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events. This data is important on showing what kind of system works the best to make sure that efficiency is at the maximum. In addition, this data is not always the most reliable, because not every event will have the same number of volunteers.  
 
 ### Query 10: Multi-Program Donors
-Query 10 tracks donors who have contributed to more than one program. This list pulls up the first and last names of donors that are a part of this special group of people. 
+Query 10 identifies donors who have contributed to more than one program and whose last name matches a specified pattern (in this case, last names beginning with “Lopez”). It returns the first name, last name, and donor ID for these qualifying donors.
 
 <img width="990" height="484" alt="Screenshot 2026-03-30 at 6 02 21 PM" src="https://github.com/user-attachments/assets/bcbcfd75-5aab-4036-9347-1ec550dd5c43" />
 
-This helps identify highly valuable donors who are deeply engaged with the organization, allowing for targeted relationship management and fundraising strategies. There could also be a list of these serial donors' names that go on advertisements or other event shirts and merchandise. It makes people want to donate more and join this exclusive recognition.  
+This query helps identify highly valuable donors who support multiple programs while also allowing for targeted segmentation based on naming patterns. This can be useful for personalized outreach, demographic analysis, or creating targeted recognition campaigns (e.g., highlighting specific donor groups in marketing materials or events). By combining engagement level with pattern-based filtering, managers can better tailor communication strategies and strengthen relationships with key donor segments.
 
 ## Database Information
 
