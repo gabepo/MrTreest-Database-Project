@@ -70,8 +70,7 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ## Queries
 
-<img width="716" height="145" alt="image" src="https://github.com/user-attachments/assets/fe6a83e7-b1ff-4fe7-8909-add29ded805a" />
-
+<img width="1103" height="212" alt="image" src="https://github.com/user-attachments/assets/ec3062d2-2878-459d-be64-d28a22599d64" />
 
 ### Query 1: Total donations by program 
 
