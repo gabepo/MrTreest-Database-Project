@@ -1,4 +1,4 @@
-
+<img width="305" height="172" alt="Screenshot 2026-03-30 at 2 07 08 PM" src="https://github.com/user-attachments/assets/9044b154-dd16-4491-807a-3892855fa523" />
 # MIST 4610 Group Project 1: Mr. Treest
 
 ## Team Name - 21482 Group 3
@@ -73,8 +73,10 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 (insert screenshot of query information table)
 
 ### Query 1: Total donations by program 
-(d![Uploading Screenshot 2026-03-30 at 2.05.35 PM.png…]()
-escription)
+
+<img width="319" height="173" alt="Screenshot 2026-03-30 at 2 07 34 PM" src="https://github.com/user-attachments/assets/e446c191-ea5d-4f3c-99b5-72c15a24b4fc" />
+
+Description)
 
 (screenshot of code goes here)
 
