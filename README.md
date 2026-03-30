@@ -73,75 +73,84 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 <img width="1103" height="212" alt="image" src="https://github.com/user-attachments/assets/ec3062d2-2878-459d-be64-d28a22599d64" />
 
 ### Query 1: Total donations by program 
-
-Query 1 shows how much total funding each program has recieved. It is not in any specific order (ex. largest to smallest) but has the program name and total amount donated. 
+How much total funding has each program received?
+- Query 1 shows how much total funding each program has recieved. It is not in any specific order (ex. largest to smallest) but has the program name and total amount donated. 
 
 <img width="959" height="349" alt="Screenshot 2026-03-30 at 2 12 37 PM" src="https://github.com/user-attachments/assets/7012d7c7-5bd2-480c-acd7-a1ae22165abb" />
 
-This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals. 
+- This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals. 
 
-### Query 2: Total Volunteer Hours by Individual  
-Query 2 shows how many hours an individual has dedicated to the movement. It has their first and last names, and then how many hours they have served. 
+### Query 2: Total Volunteer Hours by Individual
+Which volunteers have contributed the most total hours?
+- Query 2 shows how many hours an individual has dedicated to the movement. It has their first and last names, and then how many hours they have served. 
 
 <img width="895" height="409" alt="Screenshot 2026-03-30 at 2 14 59 PM" src="https://github.com/user-attachments/assets/eef226d3-ea1b-4161-a16b-4fbbe324e623" />
 
-This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities. It allows people who are earning hours for community service to easily track their hours, and could incentivize others if we said we were rewarding the top 5 best volunteers. 
+- This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities. It allows people who are earning hours for community service to easily track their hours, and could incentivize others if we said we were rewarding the top 5 best volunteers. 
 
-### Query 3: Trees Planted per Event  
-Query 3 keeps track of how many trees were planted at a given event. It tracks the number of trees that were planted and what the event was called. 
+### Query 3: Trees Planted per Event
+How many trees were planted at each event?
+- Query 3 keeps track of how many trees were planted at a given event. It tracks the number of trees that were planted and what the event was called. 
 
 <img width="890" height="337" alt="Screenshot 2026-03-30 at 2 17 11 PM" src="https://github.com/user-attachments/assets/9cf75fbb-567a-48ac-83d9-86bd48e93e82" />
 
-This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. This gives us an organized bank to account for how many each trees were planted at that event. 
+- This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. This gives us an organized bank to account for how many each trees were planted at that event. 
 
-### Query 4: Sites Organized by Community   
-Query 4 shows what communities we have helped and the site where the trees were planted at. This allows us to keep tabs of where we need to put our focus after we have helped the communities around us.  
+### Query 4: Sites Organized by Community
+Which sites are located within each community?
+- Query 4 shows what communities we have helped and the site where the trees were planted at. This allows us to keep tabs of where we need to put our focus after we have helped the communities around us.  
 
 <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/0f8d0794-a000-4649-ac5d-344decd1b830" />
  
-This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion. This will allow for an even distribution of trees around the area that we are assisting. 
+- This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion. This will allow for an even distribution of trees around the area that we are assisting. 
 
 ### Query 5: High-Funding Programs
-Query 5 helps us track each company by keeping track of what their goal for trees planted and amount of money donated to make that possible.  
+Which programs have received a high level of total donations?
+- Query 5 helps us track each company by keeping track of what their goal for trees planted and amount of money donated to make that possible.  
 
 <img width="889" height="442" alt="Screenshot 2026-03-30 at 2 26 43 PM" src="https://github.com/user-attachments/assets/e3e0a3d3-57a0-461b-b4ad-5cc57415e25b" />
 
-This helps management identify top-performing programs financially and understand which initiatives are most attractive to donors. Each program is allowed to set their own goals for themselves and be able to track their donation goal.  
+- This helps management identify top-performing programs financially and understand which initiatives are most attractive to donors. Each program is allowed to set their own goals for themselves and be able to track their donation goal.  
 
-### Query 6: Communities by Total Trees Planted  
-Query 6 shows how many trees have been planted in each community and location that the donations went towards. With the site name prompted next to which community the trees were planted. 
+### Query 6: Communities by Total Trees Planted
+How many trees have been planted in each community?
+- Query 6 shows how many trees have been planted in each community and location that the donations went towards. With the site name prompted next to which community the trees were planted. 
 
 <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/832ef402-930a-4ac9-8096-901f57070ef1" />
 
-This allows managers to evaluate and compare environmental impact across all communities, helping them identify which areas are performing well and which may need additional focus or resources. Keeping track of where we are planting trees makes it simpler to figure out where the next projects should be at. Allowing the whole community to be rewarded. 
+- This allows managers to evaluate and compare environmental impact across all communities, helping them identify which areas are performing well and which may need additional focus or resources. Keeping track of where we are planting trees makes it simpler to figure out where the next projects should be at. Allowing the whole community to be rewarded. 
 
-### Query 7: Volunteers Exceeding Average Hours  
-Query 7 showcases the number of volunteers that have clocked more hours than the average volunteer. It shows the particpants name, total hours worked, and the average hours worked from other volunteers.  
+### Query 7: Volunteers Exceeding Average Hours
+Which volunteers have worked more hours than the average volunteer?
+- Query 7 showcases the number of volunteers that have clocked more hours than the average volunteer. It shows the particpants name, total hours worked, and the average hours worked from other volunteers.  
 
  <img width="989" height="655" alt="Screenshot 2026-03-30 at 2 29 13 PM" src="https://github.com/user-attachments/assets/07504c3a-b0d3-4318-96bd-69781d071266" />
 
-This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Can be acknowledged and entered monthly raffles for rewards to incentivize people to commit more hours to the cause. Since we are running a nonprofit, volunteer hours are very important as well as people who are committed to the movement. 
+- This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Can be acknowledged and entered monthly raffles for rewards to incentivize people to commit more hours to the cause. Since we are running a nonprofit, volunteer hours are very important as well as people who are committed to the movement. 
 
-### Query 8: Events Without Volunteer Assignments  
-Query 8 shows events that would pop up if no volunteers signed up for them. The code does not return any eventId's or eventDate's right now because all events have volunteers. Also included is an AND statement which is part of the multi condition WHERE statement. This AND is an example additional condition filtering by date, so management can see which events on certain dates don't have any volunteers. We use "2026-01-01" as an example. 
+### Query 8: Events Without Volunteer Assignments
+Are there any planting events this year that did not have any volunteers assigned?
+- Query 8 shows events that would pop up if no volunteers signed up for them. The code does not return any eventId's or eventDate's right now because all events have volunteers. Also included is an AND statement which is part of the multi condition WHERE statement. This AND is an example additional condition filtering by date, so management can see which events on certain dates don't have any volunteers. We use "2026-01-01" as an example. 
 
  <img width="1243" height="422" alt="image" src="https://github.com/user-attachments/assets/1f03d5e3-2c78-4ea8-b0d6-17df02ebe88f" />
 
-This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported. It will be very useful to operations, especially when there are more programs and multiple events happening each week. This will ensure that no events are understaffed or run poorly.  
+- This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported. It will be very useful to operations, especially when there are more programs and multiple events happening each week. This will ensure that no events are understaffed or run poorly.  
 
-### Query 9: Event Efficiency (Trees per Volunteer Hour) 
-Query 9 identifies which planting events were the most efficient in terms of trees planted per volunteer hour. Listed are programs, trees planted, total hours spent working and then calculated is the trees per hour. The list is in descending order from most trees an hour to least.  
+### Query 9: Event Efficiency (Trees per Volunteer Hour)
+Which planting events were the most efficient in terms of trees planted per volunteer hour?
+- Query 9 identifies which planting events were the most efficient in terms of trees planted per volunteer hour. Listed are programs, trees planted, total hours spent working and then calculated is the trees per hour. The list is in descending order from most trees an hour to least.  
 
 <img width="988" height="602" alt="Screenshot 2026-03-30 at 2 31 40 PM" src="https://github.com/user-attachments/assets/386e2128-678e-43c3-b6eb-4c222d3cb38e" />
 
-This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events. This data is important on showing what kind of system works the best to make sure that efficiency is at the maximum. In addition, this data is not always the most reliable, because not every event will have the same number of volunteers.  
+- This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events. This data is important on showing what kind of system works the best to make sure that efficiency is at the maximum. In addition, this data is not always the most reliable, because not every event will have the same number of volunteers.  
 
 ### Query 10: Multi-Program Donors
-Query 10 identifies donors who have contributed to more than one program and whose last name matches a specified pattern (in this case, last names beginning with “Lopez”). It returns the first name, last name, and donor ID for these qualifying donors.
+Which donors with the last name 'Lopez' have contributed to more than one program?
+- Query 10 identifies donors who have contributed to more than one program and whose last name matches a specified pattern (in this case, last names beginning with “Lopez”). It returns the first name, last name, and donor ID for these qualifying donors.
 
 <img width="990" height="484" alt="Screenshot 2026-03-30 at 6 02 21 PM" src="https://github.com/user-attachments/assets/bcbcfd75-5aab-4036-9347-1ec550dd5c43" />
 
-This query helps identify highly valuable donors who support multiple programs while also allowing for targeted segmentation based on naming patterns. This can be useful for personalized outreach, demographic analysis, or creating targeted recognition campaigns (e.g., highlighting specific donor groups in marketing materials or events). By combining engagement level with pattern-based filtering, managers can better tailor communication strategies and strengthen relationships with key donor segments.
+- This query helps identify highly valuable donors who support multiple programs while also allowing for targeted segmentation based on naming patterns. This can be useful for personalized outreach, demographic analysis, or creating targeted recognition campaigns (e.g., highlighting specific donor groups in marketing materials or events). By combining engagement level with pattern-based filtering, managers can better tailor communication strategies and strengthen relationships with key donor segments.
 
 ## Database Information
 
