@@ -12,7 +12,7 @@ Team Members:
 
 ## Scenario Description
 
-The objective of this project is to design and implement a relational database that models the operations of a tree-planting nonprofit organization, the Mr. Treest Tree Planting Non-Profit Organization (MTTPNPO). The central focus of the model is on programs and planting events, which represent the organization’s efforts to plant trees in underserved communities and improve environmental sustainability. These programs are supported by donor contributions and carried out through volunteer participation at various planting sites. The database is designed to capture the relationships between donors, donations, programs, communities, volunteers, and planted trees. We aim to accurately model these relationships, generate sample data, and populate the entities with this data. This enables us to perform queries on the database that provide meaningful insights into funding, volunteer involvement, and the overall impact of the organization’s activities.
+
  
 ## Data Model
 
