@@ -78,27 +78,27 @@ Query 1 shows how much each organization has donated to our nonprofit. It is not
 
 This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals, making it possible to set a goal for a company and if they hit it they can have a section of replanted trees names after them. 
 
-### Query 2: ... 
-(description)
+### Query 2: Total Volunteer Hours by Individual  
+Query 2 shows how many hours an individual has dedicated to the movement. It has their first and last names, and then how many hours they have served. 
 
 <img width="895" height="409" alt="Screenshot 2026-03-30 at 2 14 59 PM" src="https://github.com/user-attachments/assets/eef226d3-ea1b-4161-a16b-4fbbe324e623" />
 
 
-This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities.
+This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities. It allows people who are earning hours for community service to track their hours easier and could incentivize others if we said we were rewarding the top 5 best volunteers. 
 
-### Query 3: ... 
-(description)
+### Query 3: Trees Planted per Event  
+Query 3 keeps track of how many trees were planted at a given event. It tracks the number of trees that were planted and what the event was called. 
 
 <img width="890" height="337" alt="Screenshot 2026-03-30 at 2 17 11 PM" src="https://github.com/user-attachments/assets/9cf75fbb-567a-48ac-83d9-86bd48e93e82" />
 
-This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. 
+This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. Keeps an organized bank to account for how many each group worked on that day.  
 
-### Query 4: ... 
-(description)
+### Query 4: Sites Organized by Community   
+Query 4 shows what communities we have helped and the site that they were planted at. Allows us to keep tabs of where we need to put our focus more after we have helped the communities around us.  
 
 <img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/0f8d0794-a000-4649-ac5d-344decd1b830" />
  
-This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion.  
+This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion. This will allow for an even distribution of trees around our area that we are assisting. 
 
 ### Query 5: ... 
 (description)
