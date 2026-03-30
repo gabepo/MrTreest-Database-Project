@@ -51,13 +51,15 @@ Overall, this model supports tracking financial contributions, program execution
 
 (insert screenshot of query information table)
 
-### Query 1: Total donations by program (description)
+### Query 1: Total donations by program 
+(description)
 
 (screenshot of code goes here)
 
 (justification)
 
-### Query 2: ... (description)
+### Query 2: ... 
+(description)
 
 (screenshot of code goes here)
 
