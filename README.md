@@ -70,16 +70,15 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 ## Queries
 
-(insert screenshot of query information table)
-
 ### Query 1: Total donations by program 
 
-(Description)
+Query 1 shows how much each organization has donated to our nonprofit. It is not in any specific order (ex. largest to smallest) but has the companys name and amount that they have donated
+
 
 <img width="959" height="349" alt="Screenshot 2026-03-30 at 2 12 37 PM" src="https://github.com/user-attachments/assets/7012d7c7-5bd2-480c-acd7-a1ae22165abb" />
 
 
-This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively. 
+This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals, making it possible to set a goal for a company and if they hit it they can have a section of replanted trees names after them. 
 
 ### Query 2: ... 
 (description)
