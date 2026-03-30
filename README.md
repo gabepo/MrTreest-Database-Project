@@ -73,7 +73,8 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 (insert screenshot of query information table)
 
 ### Query 1: Total donations by program 
-(description)
+(d![Uploading Screenshot 2026-03-30 at 2.05.35 PM.png…]()
+escription)
 
 (screenshot of code goes here)
 
