@@ -122,7 +122,7 @@ How many trees have been planted in each community?
 
 ### Query 7: Volunteers Exceeding Average Hours
 Which volunteers have worked more hours than the average volunteer?
-- Query 7 showcases the number of volunteers that have clocked more hours than the average volunteer. It shows the particpants name, total hours worked, and the average hours worked from other volunteers.  
+- Query 7 showcases the number of volunteers that have clocked more hours than the average volunteer. It shows the particpants name, total hours worked, and the average hours worked across all volunteers.  
 
  <img width="989" height="655" alt="Screenshot 2026-03-30 at 2 29 13 PM" src="https://github.com/user-attachments/assets/07504c3a-b0d3-4318-96bd-69781d071266" />
 
