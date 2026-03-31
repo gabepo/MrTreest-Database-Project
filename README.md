@@ -106,7 +106,7 @@ Which sites are located within each community?
 
 ### Query 5: High-Funding Programs
 Which programs have received a high level of total donations?
-- Query 5 helps us track each company by keeping track of what their goal for trees planted and amount of money donated to make that possible.  
+- Query 5 helps us track each program by keeping track of their goal for trees planted and total donations. This query only shows us programs that we deem to have high funding, which in our case is $1000. 
 
 <img width="1236" height="356" alt="image" src="https://github.com/user-attachments/assets/1c58dd54-4f75-4181-a898-246ffb5c2507" />
 
