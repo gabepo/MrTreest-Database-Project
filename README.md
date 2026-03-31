@@ -2,6 +2,7 @@
 # MIST 4610 Group Project 1: Mr. Treest
 
 ## Team Name - 21482 Group 3
+A relational database modeling the operations of a tree-planting nonprofit
 
 Team Members:
 - Tyson Elmore [@TysonElmore](https://github.com/TysonElmore)
@@ -152,8 +153,20 @@ Which donors with the last name 'Lopez' have contributed to more than one progra
 
 - This query helps identify highly valuable donors who support multiple programs while also allowing for targeted segmentation based on naming patterns. This can be useful for personalized outreach, demographic analysis, or creating targeted recognition campaigns (e.g., highlighting specific donor groups in marketing materials or events). By combining engagement level with pattern-based filtering, managers can better tailor communication strategies and strengthen relationships with key donor segments.
 
+
 ## Database Information
 
 Name of the database: al_Group_21482_G3
 
+Software used: MySQL Workbench
+
+Sample data: The database is populated with sample data including [X] donors, [X] volunteers, [X] planting events, and [X] trees across [X] communities.
+
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
+
+## How to Run
+
+1. Open MySQL Workbench
+2. Create a new schema named `al_Group_21482_G3`
+3. Import and execute the provided `.sql` file
+4. Call any query using the stored procedure format: `CALL TP_Q1();`
