@@ -114,7 +114,7 @@ Which programs have received a high level of total donations?
 
 ### Query 6: Communities by Total Trees Planted
 How many trees have been planted in each community?
-- Query 6 shows how many trees have been planted in each community and location that the donations went towards. With the site name prompted next to which community the trees were planted. 
+- Query 6 shows the communities that we have served / currently serving and the total trees planted in those communities. We can easily keep track of our past and current endeavours. 
 
 <img width="1238" height="378" alt="image" src="https://github.com/user-attachments/assets/ed337687-18d5-40f6-b16d-ac04cc58392a" />
 
