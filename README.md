@@ -73,7 +73,7 @@ Lastly, the Site entity represents physical locations where trees are planted. E
 
 <img width="1103" height="212" alt="image" src="https://github.com/user-attachments/assets/ec3062d2-2878-459d-be64-d28a22599d64" />
 
-### Query 1: Total donations by program 
+### Query 1: Total donations by program (SIMPLE)
 How much total funding has each program received?
 - Query 1 shows how much total funding each program has recieved. It is not in any specific order (ex. largest to smallest) but has the program name and total amount donated. 
 
@@ -81,7 +81,7 @@ How much total funding has each program received?
 
 - This helps management evaluate which programs are most successful in attracting donations, allowing them to prioritize funding efforts and allocate resources more effectively.  It also makes it easier to track donation goals. 
 
-### Query 2: Total Volunteer Hours by Individual
+### Query 2: Total Volunteer Hours by Individual (SIMPLE)
 Which volunteers have contributed the most total hours?
 - Query 2 shows how many hours an individual has dedicated to the movement. It has their first and last names, and then how many hours they have served. 
 
@@ -89,7 +89,7 @@ Which volunteers have contributed the most total hours?
 
 - This allows managers to identify highly engaged volunteers, recognize top contributors, and make decisions about rewards, promotions, or leadership opportunities. It allows people who are earning hours for community service to easily track their hours, and could incentivize others if we said we were rewarding the top 5 best volunteers. 
 
-### Query 3: Trees Planted per Event
+### Query 3: Trees Planted per Event (SIMPLE)
 How many trees were planted at each event?
 - Query 3 keeps track of how many trees were planted at a given event. It tracks the number of trees that were planted and what the event was called. 
 
@@ -97,7 +97,7 @@ How many trees were planted at each event?
 
 - This helps managers assess the productivity and effectiveness of individual planting events and improve planning for future events. This gives us an organized bank to account for how many trees were planted at that event. 
 
-### Query 4: Sites Organized by Community
+### Query 4: Sites Organized by Community (SIMPLE)
 Which sites are located within each community?
 - Query 4 shows what communities we have helped and the site where the trees were planted at. This allows us to keep tabs of where we need to put our focus after we have helped the communities around us.  
 
@@ -105,7 +105,7 @@ Which sites are located within each community?
  
 - This provides insight into geographic coverage and helps managers identify underserved areas or opportunities for expansion. This will allow for an even distribution of trees around the area that we are assisting. 
 
-### Query 5: High-Funding Programs
+### Query 5: High-Funding Programs (COMPLEX)
 Which programs have received a high level of total donations?
 - Query 5 helps us track each program by keeping track of their goal for trees planted and total donations. This query only shows us programs that we deem to have high funding, which in our case is $1000. 
 
@@ -113,7 +113,7 @@ Which programs have received a high level of total donations?
 
 - This helps management identify top-performing programs financially and understand which initiatives are most attractive to donors. Each program is allowed to set their own goals for themselves and be able to track their donation goal.  
 
-### Query 6: Communities by Total Trees Planted
+### Query 6: Communities by Total Trees Planted (COMPLEX)
 How many trees have been planted in each community?
 - Query 6 shows the communities that we have served / currently serving and the total trees planted in those communities. We can easily keep track of our past and current endeavours. 
 
@@ -121,7 +121,7 @@ How many trees have been planted in each community?
 
 - This allows managers to evaluate and compare environmental impact across all communities, helping them identify which areas are performing well and which may need additional focus or resources. Keeping track of where we are planting trees makes it simpler to figure out where the next projects should be at. Allowing the whole community to be rewarded. 
 
-### Query 7: Volunteers Exceeding Average Hours
+### Query 7: Volunteers Exceeding Average Hours (COMPLEX)
 Which volunteers have worked more hours than the average volunteer?
 - Query 7 showcases the number of volunteers that have clocked more hours than the average volunteer. It shows the particpants name, total hours worked, and the average hours worked across all volunteers.  
 
@@ -129,7 +129,7 @@ Which volunteers have worked more hours than the average volunteer?
 
 - This helps managers identify exceptional volunteers and understand engagement levels, which can guide retention strategies and volunteer recognition programs. Volunteers can be acknowledged and entered into monthly raffles for rewards, incentivizing them to commit more hours to the cause. 
 
-### Query 8: Events Without Volunteer Assignments
+### Query 8: Events Without Volunteer Assignments (COMPLEX)
 Are there any planting events this year that did not have any volunteers assigned?
 - This query is designed to surface events with no volunteer coverage. It uses a multi-condition WHERE clause with an AND statement to also filter by date. In our current dataset all events are staffed, which actually validates our data integrity. The date filter (e.g. 2026-01-01) can be adjusted to target specific time windows.
 
@@ -137,7 +137,7 @@ Are there any planting events this year that did not have any volunteers assigne
 
 - This highlights operational issues in event planning and staffing, allowing managers to address gaps and ensure future events are properly supported. It will be very useful to operations, especially when there are more programs and multiple events happening each week. This will ensure that no events are understaffed or run poorly.  
 
-### Query 9: Event Efficiency (Trees per Volunteer Hour)
+### Query 9: Event Efficiency (Trees per Volunteer Hour) (COMPLEX)
 Which planting events were the most efficient in terms of trees planted per volunteer hour?
 - Query 9 identifies which planting events were the most efficient in terms of trees planted per volunteer hour. Listed are programs, trees planted, total hours spent working, and trees planted per hour. The list is in descending order from most trees per hour to least trees per hour.  
 
@@ -145,7 +145,7 @@ Which planting events were the most efficient in terms of trees planted per volu
 
 - This helps managers evaluate the efficiency of events by comparing output (trees planted) to input (volunteer hours), allowing them to improve planning, allocate resources more effectively, and replicate high-performing events. This data is important on showing what kind of system works the best to make sure that efficiency is at the maximum. It's also important to keep in mind that not every event will have the same number of volunteers. 
 
-### Query 10: Multi-Program Donors
+### Query 10: Multi-Program Donors (COMPLEX)
 Which donors with the last name 'Lopez' have contributed to more than one program?
 - Query 10 identifies donors who have contributed to more than one program and whose last name matches a specified pattern (in this case, last names beginning with “Lopez”). It returns the first name, last name, and donor ID for these qualifying donors.
 
