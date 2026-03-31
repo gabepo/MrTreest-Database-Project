@@ -108,7 +108,7 @@ Which sites are located within each community?
 Which programs have received a high level of total donations?
 - Query 5 helps us track each company by keeping track of what their goal for trees planted and amount of money donated to make that possible.  
 
-<img width="889" height="442" alt="Screenshot 2026-03-30 at 2 26 43 PM" src="https://github.com/user-attachments/assets/e3e0a3d3-57a0-461b-b4ad-5cc57415e25b" />
+<img width="1238" height="378" alt="image" src="https://github.com/user-attachments/assets/7a4339a2-9a23-4722-8155-983638e55098" />
 
 - This helps management identify top-performing programs financially and understand which initiatives are most attractive to donors. Each program is allowed to set their own goals for themselves and be able to track their donation goal.  
 
