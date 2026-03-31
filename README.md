@@ -160,13 +160,7 @@ Name of the database: al_Group_21482_G3
 
 Software used: MySQL Workbench
 
-Sample data: The database is populated with sample data including [X] donors, [X] volunteers, [X] planting events, and [X] trees across [X] communities.
+Sample data: The database is populated with sample data including donors, volunteers, planting events, and trees across communities.
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
-## How to Run
-
-1. Open MySQL Workbench
-2. Create a new schema named `al_Group_21482_G3`
-3. Import and execute the provided `.sql` file
-4. Call any query using the stored procedure format: `CALL TP_Q1();`
