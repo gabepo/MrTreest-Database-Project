@@ -130,7 +130,7 @@ Which volunteers have worked more hours than the average volunteer?
 
 ### Query 8: Events Without Volunteer Assignments
 Are there any planting events this year that did not have any volunteers assigned?
-- Query 8 shows events that would pop up if no volunteers signed up for them. The code does not return any eventId's or eventDate's right now because all events have volunteers. Also included is an AND statement which is part of the multi condition WHERE statement. This AND is an example additional condition filtering by date, so management can see which events on certain dates don't have any volunteers. We use "2026-01-01" as an example. 
+- Query 8 shows events with no volunteers signed up for them. The code does not return any eventId's or eventDate's right now because all events have volunteers. Also included is an AND statement which is part of the multi condition WHERE statement. This AND is an example additional condition filtering by date, so management can see which events on certain dates don't have any volunteers. We use "2026-01-01" as an example. 
 
  <img width="1243" height="422" alt="image" src="https://github.com/user-attachments/assets/1f03d5e3-2c78-4ea8-b0d6-17df02ebe88f" />
 
