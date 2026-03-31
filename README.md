@@ -116,7 +116,7 @@ Which programs have received a high level of total donations?
 How many trees have been planted in each community?
 - Query 6 shows how many trees have been planted in each community and location that the donations went towards. With the site name prompted next to which community the trees were planted. 
 
-<img width="894" height="322" alt="Screenshot 2026-03-30 at 2 24 24 PM" src="https://github.com/user-attachments/assets/832ef402-930a-4ac9-8096-901f57070ef1" />
+<img width="1238" height="378" alt="image" src="https://github.com/user-attachments/assets/ed337687-18d5-40f6-b16d-ac04cc58392a" />
 
 - This allows managers to evaluate and compare environmental impact across all communities, helping them identify which areas are performing well and which may need additional focus or resources. Keeping track of where we are planting trees makes it simpler to figure out where the next projects should be at. Allowing the whole community to be rewarded. 
 
